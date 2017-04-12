@@ -1,0 +1,17 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+.links {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+}
+
+.fa-circle {
+  color: #61A0B1;
+}
